@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @guptah99, I am a Junior Cloud Engineer working on different Projects with AWS utilizing different servcies and technologies.
+-  Please feel free to see around and ask me questions about the Cloud Engineering and if you have any comments on my ideas drop them somewhere for me to see 
